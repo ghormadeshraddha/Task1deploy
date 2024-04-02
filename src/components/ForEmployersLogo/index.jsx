@@ -18,10 +18,8 @@ export default function ForEmployersLogo({ rework, ai = "ai", ...props }) {
           borderStyle="solid"
           borderRadius="5px"
         >
-          <Heading size="lg" as="span" color="deep_purple.600">
-            r
-          </Heading>
-          <Heading size="lg" as="span" color="deep_purple.600" letterSpacing="2.84px">
+          <Heading size="lg" as="span" color="white.A700_01" fontFamily="Actor">r</Heading>
+          <Heading size="lg" as="span" color="white.A700_01" bfontFamily="Actor" letterSpacing="2.84px">
             e
           </Heading>
           <Heading size="lg" as="span" color="white.A700_01" fontFamily="Actor" fontWeight={400}>

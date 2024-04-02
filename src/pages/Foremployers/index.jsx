@@ -1435,7 +1435,7 @@ export default function ForemployersPage() {
             py="113px"
             p={{ md: "", base: "20px" }}
           >
-            <Container gap="20px" display="flex" w="100%" flexDirection="column" maxW="1175px" px="0px" mx="auto">
+            <Container gap="20px" display="flex" w="100%"  flexDirection="column" maxW="1175px" px="0px" mx="auto">
               <Heading fontSize="42px">Optimize Your Hiring Strategy with Rework&#39;s Exclusive Hiring Audit</Heading>
               <Text size="lg" color="gray.900_02">
                 Discover the strengths and opportunities in your current hiring process. Our comprehensive Hiring Audit
